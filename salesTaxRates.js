@@ -1,3 +1,19 @@
+// Function signature
+// The arguments that a function takes two objects
+// and gives the company name, total sales and total tax.
+
+// Function contract
+// Takes two objects and gives the company name, total sales and total tax.
+
+// Side-effects:
+// no side effect
+
+// Function signature
+// name: salesTaxRates.js
+// arguments: two objects
+// return: object
+
+
 var salesTaxRates = {
   AB: 0.05,
   BC: 0.12,
